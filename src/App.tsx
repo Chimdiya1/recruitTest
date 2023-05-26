@@ -7,7 +7,7 @@ import Card from "./components/card";
 import Receipt from "./components/receipt";
 function App() {
   return (
-    <div className=" lg:p-14 bg-blue-500 xl:flex xl:flex-col xl:items-center min-h-screen">
+    <div className="parent lg:p-14  xl:flex xl:flex-col xl:items-center min-h-screen">
       <div className="bg-white xl:max-w-7xl  pb-[300px] md:pb-[300px] pt-14  p-4 md:pt-14 md:p-8 lg:p-14 relative">
         <div className="w-14 h-12 bg-gray-100 flex items-center justify-center absolute top-0 right-0 cursor-pointer">
           <GrClose className="text-lg" />
