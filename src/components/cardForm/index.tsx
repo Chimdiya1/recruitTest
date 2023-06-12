@@ -39,8 +39,8 @@ function CardForm() {
           />
           <input
             ref={first}
-            className="w-full pl-20 pr-20 bg-gray-50 p-4 rounded-lg border-[2px] border-gray-200
-          placeholder:font-semibold placeholder:text-gray-300 placeholder:text-[12px] placeholder:lg:text-lg"
+            className="w-full pl-20 pr-20 bg-gray-50 p-4 rounded-lg border-[2px] border-gray-200 
+          placeholder:font-semibold placeholder:text-gray-300 placeholder:text-[12px] placeholder:lg:text-lg focus:border-blue  border-solid"
             placeholder="2412      -      7512      -      3412      -      3456"
             type="text"
           />
